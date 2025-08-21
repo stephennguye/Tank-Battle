@@ -1,0 +1,9 @@
+# Ignore build output
+/out/
+/bin/
+/*.class
+
+# IDE
+/.idea/
+/*.iml
+/.vscode/
